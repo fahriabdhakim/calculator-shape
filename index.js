@@ -12,7 +12,7 @@ console.log(`well prepared`);
 //
 
 
-console.log(`-------------------LEVEL 1---------------------------`); // LEVEL 1
+console.log(`-------------------LEVEL 1---------------------------`);
 
 function luasPersegi(sisi) {
   return sisi * sisi
@@ -55,6 +55,8 @@ function volumeTabung(jarijari, tinggi) {
 console.log(10, 5);
 
 
+
+console.log(`-------------------LEVEL 2---------------------------`);
 
 function add(nomorA, nomorB) {
   return nomorA + nomorB
